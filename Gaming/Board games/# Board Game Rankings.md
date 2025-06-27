@@ -56,9 +56,6 @@ Avalon
 Werewolf
 - Genre: Party game
 
-Pipeline
-- Non-blocking worker placement:  Encourages everyone to AP
-
 Wingspan
 - Balance is poor： Some cards are very overpowered
 - Snowbally:  There are 4 rounds, but Round 1 decides everything if someone gets a broken engine
@@ -68,6 +65,10 @@ Wingspan
 Wicked Apples
 - Genre: Party game
 - Randomness is too much
+
+Pipeline
+- Non-blocking worker placement:  Encourages everyone to AP
+- The way to win is just APing whether it's worth to buy a machine/upgrade/tank, etc.
 
 #### Tier 4
 Scythe
