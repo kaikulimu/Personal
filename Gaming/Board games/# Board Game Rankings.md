@@ -18,26 +18,27 @@ Ark Nova
 
 Poker
 
+## Tier 1
+Brass: Birmingham
+
 Bridge
 
-## Tier 1
 Dune: Imperium – Uprising
 - Great Fighting Game: You don't know who will win until the last round
-
-Terraforming Mars
 
 Witcher 3
 - Theme:  Immersive story
 
 Great Western Trail
-    
-Splendor
+
+Decrypto
 
 Citadels
 
 One Night Ultimate Werewolf
 - Genre: Party game
 
+Terraforming Mars
 
 ## Tier 2
 Codename
@@ -46,10 +47,14 @@ Codename
 - Complexity: Very simple
 - Creativity-focused
 - Word-based
+
+Sol: Last Days of a Star
+
+Splendor
     
 Dominion
 - Engine building:  Usually there is an optimal strategy for the board
-    
+
 Furnace
 - Genre: Auction game
     
