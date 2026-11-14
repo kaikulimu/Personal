@@ -8,5 +8,6 @@
 2010: Ip Man 2
 2008: The Dark Knight
 2004: The Incredibles >= Spider-Man 2
+2003: Finding Nemo > Pirates of the Caribbean: The Curse of the Black Pearl
 2002: Spider-Man
 2001: Shaolin Soccer
